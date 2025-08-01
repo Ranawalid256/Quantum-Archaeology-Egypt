@@ -1,6 +1,7 @@
 # Quantum-Archaeology-Egypt
 Quantum ML model to predict archaeology scores in Egypt
  Quantum Archaeology: Predicting the Past with Future Tech
+ TEAM 8
 
 In this project, we explore a bold intersection between ancient Egyptian archaeology and quantum machine learning.
 
@@ -32,12 +33,18 @@ Visualized results and residuals to understand performance
 
 Qiskit, Qiskit Machine Learning, scikit-learn, pandas, matplotlib, seaborn
 
-
-
----
-
- Why This Matters
+💡 Why This Matters
 
 This project is a proof-of-concept that quantum machine learning can be applied to real, culturally relevant problems — even with limited qubits and hybrid models.
+
+It’s not just a model. It’s a step toward using the technology of tomorrow to protect the treasures of the past.
+
+
+
+our presentation link
+https://docs.google.com/presentation/d/11WvOamsDXpleJTEa0NhQzaBRTjRw_RG_/edit?usp=drivesdk&ouid=111963065244376741349&rtpof=true&sd=true
+
+
+
 
 It’s not just a model. It’s a step toward using the technology of tomorrow to protect the treasures of the past.
