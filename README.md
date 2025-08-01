@@ -12,7 +12,7 @@ To help prioritize excavation efforts, protect cultural heritage, and bring quan
 
 ---
 
-What We Did?
+What I Did?
 
 Preprocessed archaeological data with scikit-learn
 
